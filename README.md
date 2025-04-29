@@ -28,7 +28,7 @@ A full-featured **Job Portal** built using the **MERN stack** (MongoDB, Express.
 ### Frontend
 - **React.js**
 - **Redux** for state management
-- **Tailwind CSS / Bootstrap** for UI styling
+- **Tailwind CSS** for UI styling
 
 ### Backend
 - **Node.js**
